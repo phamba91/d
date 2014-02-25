@@ -4,6 +4,7 @@ public class afd {
 	public afd() {
 		// TODO Auto-generated constructor stub
 		System.out.print("Hello");
+		System.out.print("Hello");
 	}
 	
 }
